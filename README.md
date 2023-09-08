@@ -62,6 +62,9 @@ To create this visualization:
 •	Drag the "Department" field to the "Axis" section.
 •	Drag the "Employee ID" field to the "Values" section.
 •	Power BI will automatically count the number of employees per department and show it as bars on the chart.
+
+![image](https://github.com/Sumit363/PowerBi-HR-Analysis-Dashboard/assets/103460051/f8e9a510-0622-4531-b685-81d7078ac416)
+
  
 
 Donut Chart:
